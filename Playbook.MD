@@ -51,7 +51,7 @@ Plan your path to growth. Do you need outside investment to scale? Can you boots
 
 ## Due diligence. 
 Ensure you have no incompatible dependencies or upstream code contributions.
-Get proper IP agreemnts in place with founders and contractors. 
+Get proper IP agreements in place with founders and contractors. 
 If you did not write all your code from scratch, deal with any licensing issues.
 Make sure your code does not require a US export license, or other market-specifc regulatory requirements.
 
